@@ -40,7 +40,8 @@
   <VALUE name="connectedProdID" val="36832"/>
   <VALUE name="lastConnectedProdID" val="36832"/>
   <VALUE name="DYNAMIC_MIC_GAIN" val="60.00000000000000000000"/>
-  <VALUE name="AnalyticsParticipate" val="1"/>
+  <VALUE name="TRS_MIC_GAIN" val="5.00000000000000000000"/>
+  <VALUE name="AnalyticsParticipate" val="0"/>
   <VALUE name="CONDENSER_MIC_GAIN" val="30.00000000000000000000"/>
   <VALUE name="MIC_COMP_RELEASE" val="50.00000000000000000000"/>
   <VALUE name="MIC_COMP_ATTACK" val="9.00000000000000000000"/>
