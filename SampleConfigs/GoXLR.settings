@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="developerMode" val=""/>
+  <VALUE name="doUpdateCheck" val="1"/>
+  <VALUE name="profilePath" val="C:\Users\yourusername\Documents\GoXLR\Profiles"/>
+  <VALUE name="samplesPath" val="C:\Users\yourusername\Documents\GoXLR\Samples"/>
+  <VALUE name="presetPath" val="C:\Users\yourusername\Documents\GoXLR\Presets"/>
+  <VALUE name="AnalyticsAsked" val="1"/>
+  <VALUE name="lastLoadedProfile" val="Default.goxlr"/>
+  <VALUE name="bleepLevel" val="-18"/>
+  <VALUE name="mainWindowPos" val="fs 0 4 856 770"/>
+  <VALUE name="MIC_TYPE" val="0"/>
+  <VALUE name="firstConnect" val="0"/>
+  <VALUE name="TutorialRan" val="1"/>
+  <VALUE name="MIC_EQ_31.5HZ_GAIN" val="-20.00000000000000000000"/>
+  <VALUE name="MIC_EQ_63HZ_GAIN" val="-20.00000000000000000000"/>
+  <VALUE name="MIC_EQ_125HZ_GAIN" val="4.00000000000000000000"/>
+  <VALUE name="MIC_EQ_250HZ_GAIN" val="0.00000000000000000000"/>
+  <VALUE name="MIC_BASS_MACRO" val="0.00000000000000000000"/>
+  <VALUE name="eqAdvanced" val="0"/>
+  <VALUE name="compAdvanced" val="1"/>
+  <VALUE name="gateAdvanced" val="1"/>
+  <VALUE name="MIC_EQ_500HZ_GAIN" val="-3.00000000000000000000"/>
+  <VALUE name="MIC_EQ_1KHZ_GAIN" val="0.00000000000000000000"/>
+  <VALUE name="MIC_EQ_2KHZ_GAIN" val="0.00000000000000000000"/>
+  <VALUE name="MIC_EQ_4KHZ_GAIN" val="0.00000000000000000000"/>
+  <VALUE name="MIC_EQ_8KHZ_GAIN" val="8.00000000000000000000"/>
+  <VALUE name="MIC_EQ_16KHZ_GAIN" val="0.00000000000000000000"/>
+  <VALUE name="MIC_TREBLE_MACRO" val="0.00000000000000000000"/>
+  <VALUE name="MIC_COMP_THRESHOLD" val="-25.00000000000000000000"/>
+  <VALUE name="MIC_COMP_MAKEUPGAIN" val="17.00000000000000000000"/>
+  <VALUE name="MIC_COMP_MACRO" val="100.00000000000000000000"/>
+  <VALUE name="MIC_DEESS_AMOUNT" val="10.00000000000000000000"/>
+  <VALUE name="MIC_GATE_THRESOLD" val="-45.00000000000000000000"/>
+  <VALUE name="MIC_GATE_MACRO_AMOUNT" val="40.00000000000000000000"/>
+  <VALUE name="displayTextdynamicListStrings" val="Mic;Voice Chat;Music;Game;Console;Line In;System;Samples;Headphones;Discord;Spotify;SM7B;Gaming PC;RE-20"/>
+  <VALUE name="MIC_GATE_RELEASE" val="22.00000000000000000000"/>
+  <VALUE name="MIC_GATE_ATTEN" val="100"/>
+  <VALUE name="connectedProdID" val="36832"/>
+  <VALUE name="lastConnectedProdID" val="36832"/>
+  <VALUE name="DYNAMIC_MIC_GAIN" val="60.00000000000000000000"/>
+  <VALUE name="AnalyticsParticipate" val="1"/>
+  <VALUE name="CONDENSER_MIC_GAIN" val="30.00000000000000000000"/>
+  <VALUE name="MIC_COMP_RELEASE" val="50.00000000000000000000"/>
+  <VALUE name="MIC_COMP_ATTACK" val="9.00000000000000000000"/>
+  <VALUE name="eqFineTuneEnabled" val="0"/>
+  <VALUE name="MIC_EQ_31.5HZ_RANGE" val="32.00000000000000000000"/>
+  <VALUE name="MIC_GATE_ATTACK" val="5.00000000000000000000"/>
+  <VALUE name="iconPath" val="C:\Users\yourusername\Documents\GoXLR\Icons"/>
+  <VALUE name="UUID" val="6584cc0b36c84b5db2c63e5f6591bdd4"/>
+</PROPERTIES>
