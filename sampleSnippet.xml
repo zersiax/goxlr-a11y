@@ -1,3 +1,12 @@
+    <sampleBankA sampleBankAselected="0" sampleBankAstate="0" sampleBankAoffStyle="DIMMEDCOLOUR2"
+               sampleBankAcolour0="FFB400FF" sampleBankAvelocity="127" sampleBankAcolour1="FFFFFFFF"
+               sampleBankAcolour2="FF00FFFF"/>
+  <sampleBankB sampleBankBselected="0" sampleBankBstate="0" sampleBankBoffStyle="DIMMEDCOLOUR2"
+               sampleBankBcolour0="FFB400FF" sampleBankBvelocity="127" sampleBankBcolour1="FFFFFFFF"
+               sampleBankBcolour2="FF00FFFF"/>
+  <sampleBankC sampleBankCselected="0" sampleBankCstate="1" sampleBankCoffStyle="DIMMEDCOLOUR2"
+               sampleBankCcolour0="FFB400FF" sampleBankCvelocity="127" sampleBankCcolour1="FFFFFFFF"
+               sampleBankCcolour2="FF00FFFF"/>
   <sampleTopLeft sampleTopLeftselected="0" sampleTopLeftstate="Empty" sampleTopLeftoffStyle="DIMMED"
                  sampleTopLeftcolour0="FFB400FF" colorGroup="samplesGroup" sampleTopLeftvelocity="127"
                  sampleTopLeftcolour1="FF00FFFF">
