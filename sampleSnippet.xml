@@ -1,0 +1,34 @@
+  <sampleTopLeft sampleTopLeftselected="0" sampleTopLeftstate="Empty" sampleTopLeftoffStyle="DIMMED"
+                 sampleTopLeftcolour0="FFB400FF" colorGroup="samplesGroup" sampleTopLeftvelocity="127"
+                 sampleTopLeftcolour1="FF00FFFF">
+    <sampleStackA track_0NormalizedGain="0.99625331163406372070" sampleStackAstackSize="1"
+                  track_0StartPosition="0" track_0EndPosition="100" track_0="GUN CLICK.mp3"/>
+    <sampleStackB track_0NormalizedGain="0.29911547899246215820" sampleStackBstackSize="1"
+                  track_0StartPosition="0" track_0EndPosition="100" track_0="Discord Notification Sound [FREE MP3].mp3"/>
+    <sampleStackC/>
+  </sampleTopLeft>
+  <sampleTopRight sampleTopRightselected="0" sampleTopRightstate="Empty" sampleTopRightoffStyle="DIMMED"
+                  sampleTopRightcolour0="FFB400FF" colorGroup="samplesGroup" sampleTopRightvelocity="127"
+                  sampleTopRightcolour1="FF00FFFF">
+    <sampleStackA track_0NormalizedGain="0.48054099082946777344" sampleStackAstackSize="1"
+                  track_0StartPosition="0" track_0EndPosition="100" track_0="Realistic_Gunshot_Sound_Effect.mp3"/>
+    <sampleStackB track_0NormalizedGain="0.25545823574066162109" track_0StartPosition="0"
+                  track_0EndPosition="100" sampleStackBstackSize="1" track_0="bitch-i-hope-the-fuck-you-do-vine-mp3cut.mp3"/>
+    <sampleStackC/>
+  </sampleTopRight>
+  <sampleBottomLeft sampleBottomLeftselected="0" sampleBottomLeftstate="Empty" sampleBottomLeftoffStyle="DIMMED"
+                    sampleBottomLeftcolour0="FFB400FF" colorGroup="samplesGroup"
+                    sampleBottomLeftvelocity="127" sampleBottomLeftcolour1="FF00FFFF">
+    <sampleStackA track_0NormalizedGain="0.28250658512115478516" sampleStackAstackSize="1"
+                  track_0StartPosition="13.245" track_0EndPosition="75.2759" track_0="FBI Open Up - Sound Effect (HD).mp3"/>
+    <sampleStackB/>
+    <sampleStackC/>
+  </sampleBottomLeft>
+  <sampleBottomRight sampleBottomRightselected="0" sampleBottomRightstate="Empty"
+                     sampleBottomRightoffStyle="DIMMED" sampleBottomRightcolour0="FFB400FF"
+                     colorGroup="samplesGroup" sampleBottomRightvelocity="127" sampleBottomRightcolour1="FF00FFFF">
+    <sampleStackA track_0NormalizedGain="0.33637514710426330566" sampleStackAstackSize="1"
+                  track_0StartPosition="0" track_0EndPosition="100" track_0="RUBBER DUCK.mp3"/>
+    <sampleStackB/>
+    <sampleStackC/>
+  </sampleBottomRight>
