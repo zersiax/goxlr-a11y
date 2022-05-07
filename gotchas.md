@@ -28,3 +28,18 @@ The GoXLR app will load your routings just fine, as in ...there are toggles in t
 This is not the case, however, for the level attributes in that exact same XML tag, don't ask me why, I have no forking idea.  You can twiddle around with these values until you're old and grey, and NOTHING will happen whatsoever. It's infuriating because of how inconsistent it feels.
 What you actually need to do to get the new values to load is manually reload the profile. You do this by double-clicking (single click won't work) a particular spot on the screen. I set this up with someone yesterday and stored it in a Golden Cursor positions file, but as a result I don't know if what we're clicking twice is your profile name, which I suspect is the case, or some random other position on the screen.
 You also need to do this each and every time you restart the app, the new values are not stored automatically , the same way voice preset button assignments aren't. You need to explicitly click a save button which according to my research doesn't have a textual label and therefore doesn't show upin OCR. I have stored the position of that button, as well. The golden cursor file is in this repository as of this commit.
+
+## New update and default profile relocation
+
+Quoting a message from Discord:
+
+just to tell you. A new firmware and app update for GOXLR came out very recently.
+It broke a few things. I have found a way to fix them all and will tell you now.
+First, it messed up the path to the icon directory, for me it was D:\documents\goxlr\icons.
+It had another D in front of the path.
+Next thing I found was that the profile it loaded was no longer in the appdata folder, for all faders, headphone volume and so on.
+I don't know if you have always used the default profile in appdata, but that will no longer work.
+It makes a profile called default.goxlr in documents\goxlr\profiles.
+This can be fixed by copying the profile from appdata, pasting it in the profiles folder and replace, restart and everything should work as normal.
+
+It's also worth noting that after you update to the version which introduced mic profiles, the app automatically migrates these for you by deleting the lines from goxlr.settings and putting them in a default mic profile that will be created for you in your Documents folder. So if after updating you suddenly think your settings disappeared, don't be alarmed. They just moved.
