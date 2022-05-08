@@ -30,8 +30,8 @@ What you actually need to do to get the new values to load is manually reload th
 You also need to do this each and every time you restart the app, the new values are not stored automatically , the same way voice preset button assignments aren't. You need to explicitly click a save button which according to my research doesn't have a textual label and therefore doesn't show upin OCR. I have stored the position of that button, as well. The golden cursor file is in this repository as of this commit.
 
 ## New update and default profile relocation
+Thanks to Gamulation for passing these along:
 
-Quoting a message from Discord:
 
 just to tell you. A new firmware and app update for GOXLR came out very recently.
 It broke a few things. I have found a way to fix them all and will tell you now.
@@ -42,4 +42,4 @@ I don't know if you have always used the default profile in appdata, but that wi
 It makes a profile called default.goxlr in documents\goxlr\profiles.
 This can be fixed by copying the profile from appdata, pasting it in the profiles folder and replace, restart and everything should work as normal.
 
-It's also worth noting that after you update to the version which introduced mic profiles, the app automatically migrates these for you by deleting the lines from goxlr.settings and putting them in a default mic profile that will be created for you in your Documents folder. So if after updating you suddenly think your settings disappeared, don't be alarmed. They just moved.
+It's also worth noting that after you update to the version which introduced mic profiles, the app automatically migrates these for you by deleting the lines from goxlr.settings and putting them in a default mic profile that will be created for you in your Documents folder. So if after updating you suddenly think your settings disappeared, don't be alarmed. They just moved.  
